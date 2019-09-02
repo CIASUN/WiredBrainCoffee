@@ -6,7 +6,7 @@ namespace WiredBrain
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wired Brain Coffee!");
+            Console.WriteLine("Wired Brain Coffee!!");
         }
     }
 }
